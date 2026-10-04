@@ -1,0 +1,10 @@
+# Part 1 (Pandas sample analysis)
+pandas
+pyarrow
+matplotlib
+jupyter
+notebook
+ipykernel
+
+# Part 2 (PySpark processing)
+pyspark
