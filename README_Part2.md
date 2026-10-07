@@ -43,3 +43,8 @@ PySpark also needs Java (JDK 8, 11 or 17) installed. Google Colab already has it
 NYC Taxi & Limousine Commission - High Volume For-Hire Vehicle (HVFHV) trip
 records. See `output/dataset_documentation.md` for full details on license,
 size, format, collection period and how the processing subset was selected.
+
+## Presentation
+
+Link is attached as a reference in the report.
+https://drive.google.com/file/d/1TDC7BgYGNaFwL7EaiCVYLoh6YYKoD5dc/view?usp=sharing
